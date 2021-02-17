@@ -1,0 +1,45 @@
+<html>
+<head></head>
+<body>
+<table border=5>
+<tr>
+
+    <td width=100 colspan=2>
+
+        1
+    </td>
+    <td width=50>
+        6
+    </td>
+</tr>
+<tr>
+    <td width=50>
+        2
+    </td>
+    <td width=50>
+        3
+    </td>
+    <td width=50 rowspan=3>
+        7
+    </td>
+</tr>
+<tr>
+    <td colspan=2>
+        .
+
+    </td>
+    
+
+
+</tr>
+<tr>
+    <td>
+        5
+    </td>
+    <td>
+        6
+    </td>
+</tr>
+</table>
+</body>
+</html>
